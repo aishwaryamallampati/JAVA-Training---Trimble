@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">PdfCreation</string>
+    <!-- Y axis label for wall report -->
+    <string name="y_axis_label_wall_report">Wall Length </string>
+    <!--X axis label for wall report-->
+    <string name="x_axis_label_wall_report">Report Date</string>
+
+    <string name="btn_byDate">Date</string>
+    <string name="btn_byWeek">Week</string>
+    <string name="btn_byMonth">Month</string>
+    <string name="tv_saveChart">Save Chart</string>
+
+</resources>

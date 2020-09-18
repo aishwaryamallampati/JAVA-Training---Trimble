@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">PointsGeneratorApplication</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="action_settings">Settings</string>
+    <string name="tv_heading_attr_sel">Choose attribute to create relative point.</string>
+    <string name="btn_ang_dist">Angle and Distance</string>
+    <string name="btn_xy_dist">XY Distance</string>
+    <string name="btn_back">Back</string>
+    <string name="tv_heading_new_point">New Point</string>
+    <string name="tv_x">X</string>
+    <string name="tv_y">y</string>
+    <string name="tv_name">Name</string>
+    <string name="btn_create_point">Create Point</string>
+    <string name="tv_heading_creation">Point Creation</string>
+    <string name="btn_new">New</string>
+    <string name="btn_relative">Relative</string>
+    <string name="btn_export_points">Export Points</string>
+    <string name="tv_heading_list">Point List</string>
+    <string name="btn_use_point">Use Point</string>
+    <string name="tv_heading_rel_pt">Relative Point</string>
+</resources>

@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">PdfCreation</string>
+    <!--Text shown below x-axis in stakeout by date chart-->
+    <string name="x_axis_label_byday">Days</string>
+    <!--Text shown below x-axis in stakeout by weeks chart-->
+    <string name="x_axis_label_byWeek">Weeks</string>
+    <!--Text shown below x-axis in stakeout by month chart-->
+    <string name="x_axis_label_byMonth">Months</string>
+    <!-- Y axis label for wall report -->
+    <string name="y_axis_label_wall_report">Wall Length </string>
+    <!--X axis label for wall report-->
+    <string name="x_axis_label_wall_report">Report Date</string>
+    <!-- Heading shown for wall reports -->
+    <string name="report_date_header">By Report Date</string>
+
+    <string name="btn_byDate">Date</string>
+    <string name="btn_byWeek">Week</string>
+    <string name="btn_byMonth">Month</string>
+    <string name="tv_saveChart">Save Chart</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
